@@ -40,7 +40,7 @@
 </form:form>
 </div>
 <div align="center">
-    <a href="${pageContext.request.contextPath}/register "> login </a>
+    <a href="${pageContext.request.contextPath}/login "> login </a>
 </div>
 </body>
 </html>
