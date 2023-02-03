@@ -11,11 +11,6 @@
     <title>Rejestracja</title>
 </head>
 <body>
-<%--<nav>--%>
-<%--    <div >--%>
-<%--        <a href="${pageContext.request.contextPath}">Strona główna</a>--%>
-<%--    </div>--%>
-<%--</nav>--%>
 <div align="center">
 <h3>Rejestracja</h3>
 <c:if test="${not empty validator}"><p><c:out value="${validator}"/></p></c:if>
